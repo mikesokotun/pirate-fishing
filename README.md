@@ -4,9 +4,11 @@
 
 ## Скачать игру
 
-**[Скачать Pirate Fishing 1.5.0 — APK](https://github.com/mikesokotun/pirate-fishing/releases/download/v1.5.0/Pirate-Fishing-1.5.0.apk)**
+# [⬇ Скачать последнюю версию для Android — APK](https://github.com/mikesokotun/pirate-fishing/releases/latest/download/Pirate-Fishing.apk)
 
-[Страница релиза](https://github.com/mikesokotun/pirate-fishing/releases/latest) — эту ссылку можно отправить друзьям.
+Сейчас доступна **1.5.0**. Ссылка сразу начинает скачивание.
+
+[Ссылка для друзей: скачать последнюю версию](https://github.com/mikesokotun/pirate-fishing/releases/latest/download/Pirate-Fishing.apk) · [Что нового](https://github.com/mikesokotun/pirate-fishing/releases/latest)
 
 Требуется **Android 6.0 или новее** с обновлённым Android System WebView. Скачайте APK на телефон и откройте файл. Если Android попросит, разрешите установку из браузера или файлового менеджера. Игра работает без интернета, рекламы и покупок. Релиз подписан для прямой установки.
 
@@ -49,6 +51,7 @@ APK установлен и проверен в официальном эмул�
 Для версии 1.5.0 проверены вылов башмака обычными круговыми жестами, немедленный повторный заброс, проход акулы и отсутствие верхних рыб и медуз примерно 10 секунд с правильным возвращением. Проверено отсутствие возврата малышей за экраном, три сундука, рыба-клоун и Дори.
 
 Контрольная сумма APK находится в [SHA256SUMS.txt](SHA256SUMS.txt).
+
 
 
 
