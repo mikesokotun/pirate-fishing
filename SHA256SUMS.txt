@@ -1,3 +1,4 @@
 1796e769503f8da3db97678048aaf7761055f60a3fb07b080f7c6f506c80d036  Pirate-Fishing-1.6.0.apk
 a5b551d14a87acbf4779a5ba34135508345d4efe6dc86ea356d8d0b44c936138  Pirate-Fishing-1.7.0.apk
-a5b551d14a87acbf4779a5ba34135508345d4efe6dc86ea356d8d0b44c936138  Pirate-Fishing.apk
+7abc7fa2b99c9db2c38ea371add946bb3effa7b91f19ff6e1a6583ce63fa73db  Pirate-Fishing-1.8.0.apk
+7abc7fa2b99c9db2c38ea371add946bb3effa7b91f19ff6e1a6583ce63fa73db  Pirate-Fishing.apk
